@@ -1,5 +1,5 @@
 # Gestión del conocimiento - Proyecto Univalle: Descriptivos, Chi-Cuadrado, ACM, CLuster.
-# Multivariada
+# Analisis Multivariante
 # Cesar A. Saavedra Vanegas
 # 2020
 
